@@ -1,5 +1,8 @@
 {
   "name": "belessbad",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "material-components-web": "^3.1.1"
+  }
 }
